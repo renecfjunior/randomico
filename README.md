@@ -7,6 +7,6 @@ O computador vai escolher um número de 0 a 10 e o usuario tem que acertar esse 
 
 Como faço para jogar?
 
-Basta executar o arquivo App.java, ou então abrir com um cmd ou terminal e digita: javac App e depois java App.
+Basta executar o arquivo App.java, ou então abrir com um cmd ou terminal e digitar: javac App e depois java App.
 
 
