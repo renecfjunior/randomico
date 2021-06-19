@@ -5,4 +5,8 @@ Como funciona o jogo?
 
 O computador vai escolher um número de 0 a 10 e o usuario tem que acertar esse número para ganhar o jogo.
 
+Como faço para jogar?
+
+Basta executar o arquivo App ou então abrir com um cmd ou terminal digitando javac App e depois java App.
+
 
